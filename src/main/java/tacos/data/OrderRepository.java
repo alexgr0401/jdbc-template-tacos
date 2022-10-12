@@ -6,8 +6,8 @@ import tacos.TacoOrder;
 
 public interface OrderRepository {
 
-  TacoOrder save(TacoOrder order);
+	TacoOrder save(TacoOrder order);
 
-  Optional<TacoOrder> findById(Long id);
+	Optional<TacoOrder> findById(Long id);
 
 }
