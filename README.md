@@ -1,2 +1,2 @@
 # JDBC template tacos
-JDBC template for tacos using the Thymeleaf template and the Spring Boot framework.
+JDBC template for tacos using Thymeleaf template and Spring Boot framework.
